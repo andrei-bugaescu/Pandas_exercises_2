@@ -1,1 +1,1 @@
-# Pandas_exercises_2
+# I upload some begginer exercises in library pandas
